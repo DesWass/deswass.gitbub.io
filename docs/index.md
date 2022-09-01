@@ -32,7 +32,9 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 
 10.	Click **Next** again and you will be prompted to enter the verification code from the app.
 
-11.	Type in the code from the app on your computer, click **Verify** and then follow the instructions on the screen.
+11.	Type in the code from the app on your computer, click **Verify** and then follow the instructions on the screen.  
+  ![MFA Code Set up](https://github.com/DesWass/deswass.github.io/blob/main/docs/Code-Setup-MS-Authenticator.png)  
+  ![Veriy MFA Code](https://github.com/DesWass/deswass.github.io/blob/main/docs/Code-Verify-MS-Authenticator.png)
 
 12.	Click **Done**.
 
