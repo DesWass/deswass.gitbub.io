@@ -64,3 +64,6 @@ Contact IT immediately. Someone else may be trying to access your account.
 
 ### What if I lose my phone or if I get a new one?
 You will need to set up MFA on the new device. MFA settings cannot be transferred to your new phone.
+
+### Do I have to use the Microsoft Authenticator app?
+Technically, no. However if your account is transitioned from standard passwords and MFA across to a passwordless configuration, you will need the Microsoft Authenticator app. In this case, it may be simpler to use the Microsoft Authenticator app from the outset.
