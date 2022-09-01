@@ -42,7 +42,7 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 
 ## Frequently Asked Questions
 ### How often will I be asked for multi-factor authentication?
-You will need to authenticate your applications in the following circumstances as well as re-authenticating every 45 days.
+You **_may_** to authenticate your applications in the following circumstances as well as re-authenticating every 45 days.
 * Switching to a new browser or Switching to a new device  
 * Clearing browser cookies or using an incognito/private browser window
 * Signing out of a Microsoft 365 application and signing back in  
