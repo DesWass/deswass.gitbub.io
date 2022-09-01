@@ -6,7 +6,7 @@ Multi-factor authentication adds an additional layer of security to your online 
 
 Follow the steps below, you can also view Microsoft’s instructional video at [https://youtu.be/Q8OzabuNwHI](https://youtu.be/Q8OzabuNwHI).
 
-1.	On your mobile device download the Microsoft Authenticator app (available in the app store on iOS or Google Play on Android)
+1.	On your mobile device download the Microsoft Authenticator app (available in the app store on iOS or Google Play on Android).
 
 ![Microsoft Authenticator download from the App Store or the Play Store](https://github.com/DesWass/deswass.github.io/blob/main/docs/Download-MS-Authenticator.png)
 
