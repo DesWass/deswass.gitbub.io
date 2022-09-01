@@ -11,7 +11,7 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 
 2.	On your computer open a browser and navigate to [https://aka.ms/mfasetup](https://aka.ms/mfasetup).  
 3.	You should see a **_'More information required'_** prompt.  
-  ![MFA - More information]<img src="https://github.com/DesWass/deswass.github.io/blob/main/docs/More-Information-MS-Authenticator.png">  
+  <img src="./More-Information-MS-Authenticator.png">  
 
 4.	Next, you will be asked how you should be contact to verify your password. Select **Mobile app** and check **Use Verification Code**. Then click **Set up**.  
   ![Setup MFA Prompts](https://github.com/DesWass/deswass.github.io/blob/main/docs/Prompt-MS-Authenticator.png)
