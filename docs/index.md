@@ -41,10 +41,24 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 ## Frequently Asked Questions
 ### How often will I be asked for multi-factor authentication?
 You will need to authenticate your applications in the following circumstances as well as re-authenticating every 45 days.
-•	Switching to a new browser or Switching to a new device  
-•	Clearing browser cookies or using an incognito/private browser window
-•	Signing out of a Microsoft 365 application and signing back in  
-•	IT revoking MFA sessions if your device is lost or stolen
-•	Your MFA settings are cleared and require you to re-register with MFA
-•	Trying to sign in in an unfamiliar location (e.g., while on holidays in another state)
+* Switching to a new browser or Switching to a new device  
+* Clearing browser cookies or using an incognito/private browser window
+* Signing out of a Microsoft 365 application and signing back in  
+* IT revoking MFA sessions if your device is lost or stolen
+* Your MFA settings are cleared and require you to re-register with MFA
+* Trying to sign in in an unfamiliar location (e.g., while on holidays in another state)
 
+### Do I need to authenticate when I login to my laptop or computer or phone?
+No, the authentication only applies to Microsoft 365 applications either installed on your devices including phone or when accessing via a web browser.
+
+### What if I don’t have my mobile device when I need to login?
+You will need your mobile to log in. Due to our security requirements, multi-factor authentication cannot be bypassed or turned-off for any reason. 
+
+### What if I don’t want the authenticator application installed on my personal device?
+You will not be able to access the Microsoft 365 applications on your mobile device and will not be able to access your work account at all.
+
+### What if I am getting prompts on my mobile about MFA and I have no where to enter the code?
+Contact IT immediately. Someone else may be trying to access your account.
+
+### What if I lose my phone or if I get a new one?
+You will need to set up MFA on the new device. MFA settings cannot be transferred to your new phone.
