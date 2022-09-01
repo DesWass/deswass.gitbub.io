@@ -8,5 +8,6 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 
 1.	On your mobile device download the Microsoft Authenticator app (available in the app store on iOS or Google Play on Android)
 
+![Microsoft Authenticator download from the App Store or the Play Store](https://github.com/DesWass/deswass.github.io/blob/main/docs/Download-MS-Authenticator.png)
 
 2.	On your computer open a browser and navigate to [https://aka.ms/mfasetup](https://aka.ms/mfasetup).
