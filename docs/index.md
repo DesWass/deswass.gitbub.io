@@ -19,4 +19,32 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 5.	You will now be presented with a QR Code to use in the next steps.  
   ![QR Code Setup](https://github.com/DesWass/deswass.github.io/blob/main/docs/QR-Code-MS-Authenticator.png)
 
-6. On your mobile device, open the Microsoft Authenticator app and Click ‘+’ to add an Account and then select Work or School account.
+6. On your mobile device, open the Microsoft Authenticator app and click ‘+’ to add an Account and then select Work or School account.  
+  ![Select Work or School Account](https://github.com/DesWass/deswass.github.io/blob/main/docs/Work-or-School-Account-MS-Authenticator.png)
+
+7. Select Scan a QR code.  
+  ![Choose the QR Code Option](https://github.com/DesWass/deswass.github.io/blob/main/docs/Scan-QR-MS-Authenticator.png)
+  
+8.	Authorise the app to access your camera (if prompted).  
+  
+9.	Scan the QR code generated on your computer screen and then press Next once the code is scanned successfully.  
+  ![Scan the QR Code](https://github.com/DesWass/deswass.github.io/blob/main/docs/Final-QR-Code-MS-Authenticator.png)
+
+10.	Click Next again and you will be prompted to enter the verification code from the app.
+
+11.	Type in the code from the app on your computer, click Verify.
+
+12.	Click Done.
+
+13.	You will now be set up for MFA. Occasionally, you will be prompted to enter a new verification code when accessing your account.
+
+## Frequently Asked Questions
+### How often will I be asked for multi-factor authentication?
+You will need to authenticate your applications in the following circumstances as well as re-authenticating every 45 days.
+•	Switching to a new browser or Switching to a new device  
+•	Clearing browser cookies or using an incognito/private browser window
+•	Signing out of a Microsoft 365 application and signing back in  
+•	IT revoking MFA sessions if your device is lost or stolen
+•	Your MFA settings are cleared and require you to re-register with MFA
+•	Trying to sign in in an unfamiliar location (e.g., while on holidays in another state)
+
