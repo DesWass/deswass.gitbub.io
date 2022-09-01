@@ -15,3 +15,8 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 
 4.	Next, you will be asked how you should be contact to verify your password. Select Mobile app and check Use Verification Code. Then click Set up.  
   ![Setup MFA Prompts](https://github.com/DesWass/deswass.github.io/blob/main/docs/Prompt-MS-Authenticator.png)
+
+5.	You will now be presented with a QR Code to use in the next steps.  
+  ![QR Code Setup](https://github.com/DesWass/deswass.github.io/blob/main/docs/QR-Code-MS-Authenticator.png)
+
+6. On your mobile device, open the Microsoft Authenticator app and Click ‘+’ to add an Account and then select Work or School account.
