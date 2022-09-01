@@ -13,28 +13,28 @@ Follow the steps below, you can also view Microsoft’s instructional video at [
 3.	You should see a **_'More information required'_** prompt.  
   ![MFA - More information](https://github.com/DesWass/deswass.github.io/blob/main/docs/More-Information-MS-Authenticator.png)  
 
-4.	Next, you will be asked how you should be contact to verify your password. Select Mobile app and check Use Verification Code. Then click Set up.  
+4.	Next, you will be asked how you should be contact to verify your password. Select **Mobile app** and check **Use Verification Code**. Then click **Set up**.  
   ![Setup MFA Prompts](https://github.com/DesWass/deswass.github.io/blob/main/docs/Prompt-MS-Authenticator.png)
 
 5.	You will now be presented with a QR Code to use in the next steps.  
   ![QR Code Setup](https://github.com/DesWass/deswass.github.io/blob/main/docs/QR-Code-MS-Authenticator.png)
 
-6. On your mobile device, open the Microsoft Authenticator app and click ‘+’ to add an Account and then select Work or School account.  
+6. On your mobile device, open the Microsoft Authenticator app and click **‘+’** to add an Account and then select **Work or School account**.  
   ![Select Work or School Account](https://github.com/DesWass/deswass.github.io/blob/main/docs/Work-or-School-Account-MS-Authenticator.png)
 
-7. Select Scan a QR code.  
+7. Select **Scan a QR code**.  
   ![Choose the QR Code Option](https://github.com/DesWass/deswass.github.io/blob/main/docs/Scan-QR-MS-Authenticator.png)
   
 8.	Authorise the app to access your camera (if prompted).  
   
-9.	Scan the QR code generated on your computer screen and then press Next once the code is scanned successfully.  
+9.	Scan the QR code generated on your computer screen and then press **Next** once the code is scanned successfully.  
   ![Scan the QR Code](https://github.com/DesWass/deswass.github.io/blob/main/docs/Final-QR-Code-MS-Authenticator.png)
 
-10.	Click Next again and you will be prompted to enter the verification code from the app.
+10.	Click **Next** again and you will be prompted to enter the verification code from the app.
 
-11.	Type in the code from the app on your computer, click Verify.
+11.	Type in the code from the app on your computer, click **Verify** and then follow the instructions on the screen.
 
-12.	Click Done.
+12.	Click **Done**.
 
 13.	You will now be set up for MFA. Occasionally, you will be prompted to enter a new verification code when accessing your account.
 
